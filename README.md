@@ -15,36 +15,6 @@ By Leheng Zhang, Yawei Li, Xingyu Zhou, Xiaorui Zhao, and Shuhang Gu.
 
 
 
-## Contents
-1. [Enviroment](#environment)
-1. [Fast Inference](#fast-inference)
-1. [Training](#training)
-1. [Testing](#testing)
-1. [Results](#results)
-1. [Visual Results](#visual-results)
-1. [Citation](#citation)
-1. [Acknowledgements](#acknowledgements)
-
-
-## Environment
-- Python 3.9
-- PyTorch 2.0.1
-
-
-```
-
-
-## Results
-- Classical Image Super-Resolution
-
-<img width="800" src="figures/classical.png">
-
-- Lightweight Image Super-Resolution
-
-<img width="800" src="figures/lightweight.png">
-
-## Visual Results
-
 - Complete visual results can be downloaded from [link](https://drive.google.com/drive/folders/1HwEbAGU6WEw9ZGbFdt__BOJo_5DKflEb?usp=sharing).
 
 <img width="800" src="figures/viscomp_027.png">
